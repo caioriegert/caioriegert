@@ -6,9 +6,11 @@
 
 - A mérito de curiosidade, amo Carros & Computadores!
 
-# Áreas de atuação:
+# Tecnologias que domino:
 ![icons8-html-5-48](https://github.com/caioriegert/caioriegert/assets/162862864/2258d7a6-5cd6-4969-8b45-21fef7c08d7f)
 ![icons8-css3-48](https://github.com/caioriegert/caioriegert/assets/162862864/c44861d4-1ac1-49ca-988b-ae096912bb4d)
+![icons8-git-48](https://github.com/caioriegert/caioriegert/assets/162862864/8e9f5412-6e34-4555-b23c-3621adee35ca)
+
 
 # Minhas redes sociais:
 [![icons8-instagram-48](https://github.com/caioriegert/caioriegert/assets/162862864/dca97f3d-0b17-4db3-8fcb-8ad0e2bdab8f)](https://www.instagram.com/caioriegert/)
