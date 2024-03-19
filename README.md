@@ -11,6 +11,11 @@
 ![icons8-css3-48](https://github.com/caioriegert/caioriegert/assets/162862864/c44861d4-1ac1-49ca-988b-ae096912bb4d)
 ![icons8-git-48](https://github.com/caioriegert/caioriegert/assets/162862864/8e9f5412-6e34-4555-b23c-3621adee35ca)
 
+# Línguas que eu falo:
+![icons8-brasil-48](https://github.com/caioriegert/caioriegert/assets/162862864/9353a527-37af-4e3b-bc9a-e06e0c97d408)
+![icons8-eua-48](https://github.com/caioriegert/caioriegert/assets/162862864/f8a03711-d8b8-45f7-baa3-ca5dee87702b)
+
+
 
 # Minhas redes sociais:
 [![icons8-instagram-48](https://github.com/caioriegert/caioriegert/assets/162862864/dca97f3d-0b17-4db3-8fcb-8ad0e2bdab8f)](https://www.instagram.com/caioriegert/)
