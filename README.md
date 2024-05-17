@@ -1,4 +1,4 @@
-![foto github](https://github.com/caioriegert/caioriegert/assets/162862864/c2330112-776d-4876-8966-36632bb589d9)
+![icons8-javascript](https://github.com/caioriegert/caioriegert/assets/162862864/719dac73-0c6b-463b-a200-d4a922863b35)![foto github](https://github.com/caioriegert/caioriegert/assets/162862864/c2330112-776d-4876-8966-36632bb589d9)
 # Sobre mim:
 - Olá. Bem vindo ao meu perfil! Me chamo Caio e estou iniciando minha caminhada no mercado de computação e programação!
 
@@ -10,6 +10,7 @@
 ![icons8-html-5-48](https://github.com/caioriegert/caioriegert/assets/162862864/2258d7a6-5cd6-4969-8b45-21fef7c08d7f)
 ![icons8-css3-48](https://github.com/caioriegert/caioriegert/assets/162862864/c44861d4-1ac1-49ca-988b-ae096912bb4d)
 ![icons8-git-48](https://github.com/caioriegert/caioriegert/assets/162862864/8e9f5412-6e34-4555-b23c-3621adee35ca)
+![icons8-javascript-48](https://github.com/caioriegert/caioriegert/assets/162862864/e67c484c-c10a-4733-823b-244f5ab849ed)
 
 # Línguas que eu falo:
 ![icons8-brasil-48](https://github.com/caioriegert/caioriegert/assets/162862864/9353a527-37af-4e3b-bc9a-e06e0c97d408)
