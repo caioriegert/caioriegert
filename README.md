@@ -1,5 +1,4 @@
 ![foto github](https://github.com/caioriegert/caioriegert/assets/162862864/c2330112-776d-4876-8966-36632bb589d9)
-![background2](https://github.com/caioriegert/caioriegert/assets/162862864/7194e491-e1a4-4c0d-b0e1-112e4abf1811)
 
 # Sobre mim:
 - Olá. Bem vindo ao meu perfil! Me chamo Caio e estou iniciando minha caminhada no mercado de computação e programação!
