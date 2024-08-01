@@ -3,7 +3,7 @@
 # Sobre mim:
 - Olá. Bem vindo ao meu perfil! Me chamo Caio e estou iniciando minha caminhada no mercado de computação e programação!
 
-- Atualmente estou na 1° fase de Sistemas de Informação na UNIFEBE
+- Atualmente estou na 2° fase de Sistemas de Informação na UNIFEBE
 
 - A mérito de curiosidade, amo Carros & Computadores!
 
