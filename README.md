@@ -21,7 +21,7 @@
 
 # Minhas redes sociais:
 [![icons8-instagram-48](https://github.com/caioriegert/caioriegert/assets/162862864/dca97f3d-0b17-4db3-8fcb-8ad0e2bdab8f)](https://www.instagram.com/caioriegert/)
-[![icons8-level-up-your-coding-skills-and-quickly-land-a-job-96](https://github.com/user-attachments/assets/2a9f2a20-3d15-4699-a627-40e07ed877d1)](https://leetcode.com/u/caior/)
+[![icons8-level-up-your-coding-skills-and-quickly-land-a-job-48](https://github.com/user-attachments/assets/96e9237d-8f20-4f88-ab3b-7c172774c3bd)](https://leetcode.com/u/caior/)
 
 
 
