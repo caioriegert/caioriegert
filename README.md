@@ -3,7 +3,7 @@
 # Sobre mim:
 - Olá. Bem vindo ao meu perfil! Me chamo Caio e estou iniciando minha caminhada no mercado de computação e programação!
 
-- Atualmente estou na 3° fase de Sistemas de Informação na UNIFEBE
+- Atualmente estou na 3° fase de Sistemas de Informação
 
 # Tecnologias que domino:
 ![icons8-html-5-48](https://github.com/caioriegert/caioriegert/assets/162862864/2258d7a6-5cd6-4969-8b45-21fef7c08d7f)
